@@ -1,28 +1,31 @@
-# Hi there! 👋
+# Hello Everyone! 👋
 
-My name is Aisyah, but you can call me Eca or Camok.
+My name is Aisyah, but you can call me EcahXD or Eca.
 
 ## Introduction
 
-- 👩‍💻 Bachelor student of multimedia computing.
+- 👩‍💻 Bachelor student of Multimedia Computing.
 - 🚀 Passionate about programming, software development, software design, music, and animation.
 - 📚 Eager to learn more about programming, especially related to design.
-- 💼 Interested in roles such as Web Developer, Game Developer, Software Development, and other areas related to design.
+- 💼 Interested in roles as a Front End Developer.
 - 😄 Pronouns: She/Her
 
 ## Education
 
+- 📚 Sijil Pelajaran Malaysia (SPM) in Social Science at SMK Tengku Mahmud Iskandar.
+  - Active as a Chairperson in the curriculum club and the sports club.
+  - Also served as a committee member in the association club.
 - 🎓 Diploma in Computer Science from UiTM Segamat, Johor.
-  - Actively involved in extracurricular activities such as leading the Green Phoenix Marching Band and participating in web development projects.
+  - Actively involved in extracurricular activities such as leading the Green Phoenix Marching Band.
+  - Participated in web development projects.
 - 🏫 Currently studying at UiTM Jasin, Melaka as a bachelor student of Multimedia Computing.
-  - Excited to expand knowledge in web development, web/software design, UI/UX, game development, and software design.
-  - Eager to acquire new programming skills and learn more programming languages.
+
 
 ## Skills
 
 1. 💻 Programming
 2. 🌐 Web Development
-3. 🎨 Web Designer
+3. 🎨 Web Design
 4. 🎬 Video Editing
 5. 🖌️ Graphic Design
 
@@ -35,6 +38,10 @@ My name is Aisyah, but you can call me Eca or Camok.
 5. 🎥 Cinema Booking System (in Diploma) using C++
 6. 🖥️ UiTM Club Registration Website/System (in Diploma) using PHP, CSS, HTML, JavaScript
 7. 🍽️ Food Ordering Website Improvised (current) using HTML, CSS, JavaScript
+8. 🧮 Discrete Math Relations (current) using Visual Basic
+9. 🚂 2D Train Simulation (current) using OpenGL
+10.🚧 Moving 2D Excavator (current) using OpenGL
+11.🌐 Visit Pahang Website (current) using HTML, CSS, JavaScript
 
 ## Experience
 
@@ -44,9 +51,8 @@ My name is Aisyah, but you can call me Eca or Camok.
 
 ## Interests
 
-1. 🏸 Badminton enthusiast
-2. 🎳 Bowling aficionado
-3. 🎮 Gamer
-4. 🌍 Enjoy exploring new places
-5. 🍔 Food enthusiast
-
+1. 🎳 Bowling aficionado
+2. 🎮 Gamer
+3. 🌍 Enjoy exploring new places
+4. 🍔 Food enthusiast
+5. 🌟 Embracing new work experiences
