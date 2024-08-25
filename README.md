@@ -20,7 +20,6 @@ My name is Aisyah, but you can call me EcahXD or Eca.
   - Participated in web development projects.
 - 🏫 Currently studying at UiTM Jasin, Melaka as a bachelor student of Multimedia Computing.
 
-
 ## Skills
 
 1. 💻 Programming
@@ -45,9 +44,15 @@ My name is Aisyah, but you can call me EcahXD or Eca.
 
 ## Experience
 
-1. 💼 Internship at Map2U Sdn Bhd as a System Analyst Support.
+1. 🛒 **Store Clerk** at Econsave Cash And Carry GB
+   - Ensured accurate inventory management.
+   - Gained experience during semester breaks.
+2. 💼 **System Analyst** at Map2U Sdn Bhd
    - Responsible for various documentation tasks and updates for the company's systems.
-   - Valuable experience gained in a supportive role.
+   - Acquired experience in my diploma internship program.
+3. 🛠️ **Production Operator** at Vtech Communication Company
+   - Assembled electronic products and maintained quality control.
+   - Acquired experience while awaiting further studies.
 
 ## Interests
 
