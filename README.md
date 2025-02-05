@@ -7,7 +7,7 @@ My name is Aisyah, but you can call me EcahXD or Eca.
 - 👩‍💻 Bachelor student of Multimedia Computing.
 - 🚀 Passionate about programming, software development, software design, music, and animation.
 - 📚 Eager to learn more about programming, especially related to design.
-- 💼 Interested in roles as a Front End Developer.
+- 💼 Interested in roles as a Front End Developer/Stack Developer.
 - 😄 Pronouns: She/Her
 
 ## Education
