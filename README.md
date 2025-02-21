@@ -17,10 +17,12 @@ My name is Aisyah, but you can call me EcahXD or Eca. I am currently fixing and 
 ## 🎓 Education
 
 - 📚 **Sijil Pelajaran Malaysia (SPM) in Social Science** – SMK Tengku Mahmud Iskandar
+
   - Active as a **Chairperson** in the curriculum and sports clubs.
   - Served as a **committee member** in the association club.
 
 - 🎓 **Diploma in Computer Science** – UiTM Segamat, Johor
+
   - Actively involved in extracurricular activities such as leading the **Green Phoenix Marching Band**.
   - Participated in **web development projects**.
 
@@ -41,6 +43,7 @@ My name is Aisyah, but you can call me EcahXD or Eca. I am currently fixing and 
 ## 💼 Projects
 
 ### 📚 **Diploma Projects**
+
 1. 🍔 **Food Ordering Website** – Visual Basic
 2. 🏨 **Hotel/Hall Booking System** – Java
 3. 🐰 **Alice Wonderland Challenge Animation** – Alice
@@ -49,27 +52,31 @@ My name is Aisyah, but you can call me EcahXD or Eca. I am currently fixing and 
 6. 🖥️ **UiTM Club Registration System** – PHP, CSS, HTML, JavaScript
 
 ### 🚀 **Current Projects**
+
 7. 🍽️ **Improved Food Ordering Website** – HTML, CSS, JavaScript
 8. 🧮 **Discrete Math Relations System** – Visual Basic
-9. 🚂 **2D Train Simulation** – OpenGL
-10. 🚧 **Moving 2D Excavator** – OpenGL
+9. 🚂 **2D Train Simulation** – OpenGL (C++)
+10. 🚧 **Moving 2D Excavator** – OpenGL (C++)
 11. 🌐 **Visit Pahang Website** – HTML, CSS, JavaScript
-12. 🍽️ **Restaurant Management System** – Java (Eclipse, JDBC, MVC)
-13. 📅 **Event Handler Mobile Application** – Android Studio
+12. 🍽️ **Restaurant Management System** – Eclipse (Java, JDBC, MVC)
+13. 📅 **Event Handler Mobile Application** – Android Studio (Java/Kotlin)
 
 ---
 
 ## 🏆 Experience
 
 1. 🛒 **Store Clerk** – Econsave Cash And Carry GB
+
    - Managed inventory and ensured stock accuracy.
    - Gained retail experience during semester breaks.
 
 2. 💼 **System Analyst Intern** – Map2U Sdn Bhd
+
    - Handled documentation tasks and updated company systems.
    - Gained experience during my **diploma internship program**.
 
 3. 🛠️ **Production Operator** – Vtech Communication Company
+
    - Assembled electronic products while maintaining quality control.
    - Worked while awaiting further studies.
 
