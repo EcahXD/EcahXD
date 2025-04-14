@@ -47,19 +47,18 @@ My name is Aisyah, but you can call me EcahXD or Eca. I am currently fixing and 
 1. 🍔 **Food Ordering Website** – Visual Basic
 2. 🏨 **Hotel/Hall Booking System** – Java
 3. 🐰 **Alice Wonderland Challenge Animation** – Alice
-4. 🌳 **Family Tree** – Prolog
-5. 🎥 **Cinema Booking System** – C++
-6. 🖥️ **UiTM Club Registration System** – PHP, CSS, HTML, JavaScript
+4. 🎥 **Cinema Booking System** – C++
+5. 🖥️ **UiTM Club Registration System** – PHP, CSS, HTML, JavaScript
 
 ### 🚀 **Current Projects**
 
-7. 🍽️ **Improved Food Ordering Website** – HTML, CSS, JavaScript
-8. 🧮 **Discrete Math Relations System** – Visual Basic
-9. 🚂 **2D Train Simulation** – OpenGL (C++)
-10. 🚧 **Moving 2D Excavator** – OpenGL (C++)
-11. 🌐 **Visit Pahang Website** – HTML, CSS, JavaScript
-12. 🍽️ **Restaurant Management System** – Eclipse (Java, JDBC, MVC)
-13. 📅 **Event Handler Mobile Application** – Android Studio (Java/Kotlin)
+6. 🍽️ **Improved Food Ordering Website** – HTML, CSS, JavaScript
+7. 🧮 **Discrete Math Relations System** – Visual Basic
+8. 🚂 **2D Train Simulation** – OpenGL (C++)
+9. 🚧 **Moving 2D Excavator** – OpenGL (C++)
+10. 🌐 **Visit Pahang Website** – HTML, CSS, JavaScript
+11. 🍽️ **Restaurant Management System** – Eclipse (Java, JDBC, MVC)
+12. 📅 **Event Handler Mobile Application** – Android Studio (Java/Kotlin)
 
 ---
 
