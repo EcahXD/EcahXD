@@ -1,6 +1,6 @@
 # Hello Everyone! 👋
 
-My name is Aisyah, but you can call me EcahXD or Eca. I am currently fixing and improving all my past university projects (both diploma and current) so I can share them on GitHub. All these projects are open for use, contributions, and reference. If you use my projects, please credit me as **@EcahXD**! 😊
+My name is Aisyah, but you can call me Eca or SN. I am currently fixing and improving all my past university projects (both diploma and degree) so I can share them on GitHub. All these projects are open for use, contributions, and reference. If you use my projects, please credit me as **@SN Azlan**! 😊
 
 ---
 
